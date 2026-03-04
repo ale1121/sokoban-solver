@@ -1,0 +1,10 @@
+Test,Algorithm,Explored States,Pull Moves,Time (s)
+easy_map1,beam_search,40,0,0.012862682342529297
+easy_map2,beam_search,37,0,0.010638236999511719
+medium_map1,beam_search,60,0,0.09831452369689941
+medium_map2,beam_search,130,0,0.2816891670227051
+hard_map1,beam_search,138,0,0.20992016792297363
+hard_map2,beam_search,89,0,0.1436927318572998
+super_hard_map1,beam_search,360,2,1.140479564666748
+large_map1,beam_search,129,0,1.4969253540039062
+large_map2,beam_search,171,0,4.799420118331909

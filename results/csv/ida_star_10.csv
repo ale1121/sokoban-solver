@@ -1,0 +1,8 @@
+Test,Algorithm,Explored States,Pull Moves,Time (s)
+easy_map1,ida_star,6,0,0.0028667449951171875
+easy_map2,ida_star,6,0,0.002791881561279297
+medium_map1,ida_star,8,0,0.02118515968322754
+medium_map2,ida_star,404,0,1.176868200302124
+hard_map1,ida_star,1398,0,2.923788070678711
+hard_map2,ida_star,181,0,0.6594152450561523
+large_map1,ida_star,15,0,0.26973438262939453
