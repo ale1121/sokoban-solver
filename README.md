@@ -92,9 +92,7 @@ To address this, the heuristic adds the cost of pull moves already performed in 
 
 ## Experimental Results
 
-Test maps:
-* [yaml format](tests/yaml)
-* [visual](tests/images)
+[Test maps](tests)
 
 The solvers are evaluated on the set of test maps, using the following metrics:
 * runtime
